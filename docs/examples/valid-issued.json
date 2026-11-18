@@ -1,0 +1,8 @@
+{
+  "invoiceIdentifier": "f17f40be-a9d3-4e3c-9384-885ab050e54a",
+  "description": "Corporate services invoice",
+  "status": "ISSUED",
+  "netAmount": 100.00,
+  "calculatedTax": 18.00,
+  "itemCount": 3
+}

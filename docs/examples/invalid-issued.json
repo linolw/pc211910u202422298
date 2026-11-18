@@ -1,0 +1,8 @@
+{
+  "invoiceIdentifier": "8086f608-cb81-4d27-9ae7-2197901adb1c",
+  "description": "No line items",
+  "status": "ISSUED",
+  "netAmount": 100.00,
+  "calculatedTax": 18.00,
+  "itemCount": 0
+}

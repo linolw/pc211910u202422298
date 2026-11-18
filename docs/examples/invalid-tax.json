@@ -1,0 +1,8 @@
+{
+  "invoiceIdentifier": "31c8440b-b019-4b07-a93e-3747b507cd22",
+  "description": "Incorrect tax example",
+  "status": "ISSUED",
+  "netAmount": 100.00,
+  "calculatedTax": 17.00,
+  "itemCount": 3
+}
